@@ -64,7 +64,7 @@ const IndexPage = () => (
       <div style={{padding: '15px'}}>
         <p style = {{fontWeight: 'bold', 
         fontSize: '35px', 
-        color:"white"}}> See the <a href="https://docs.google.com/document/d/1s7CA1VP9IbH5eJ04d2lRe06iUi06YTjNGQjvgutPOFg/edit?usp=sharing" target='_blank' style={{fontWeight: 'bold', 
+        color:"white"}}> See the <a href="https://docs.google.com/document/d/1s7CA1VP9IbH5eJ04d2lRe06iUi06YTjNGQjvgutPOFg/edit?usp=sharing" target='_blank' rel="noopener noreferrer" style={{fontWeight: 'bold', 
         fontSize: '35px', 
         color:"white"}}>Sample Agenda</a>
            </p>
