@@ -34,7 +34,7 @@ const IndexPage = () => (
       A Gavel Club is a youth run club affiliated with Toastmasters International. In this club, we work towards becoming better 
       speakers and leaders while helping each other.</p></div>
 
-      <div class='zoom'>
+      <div class='zoom' style = {{marginBottom:"20px"}}>
       <div class = "toast" style = {{float:"left",width: "300px",marginRight:'30px'}}>
       <Image></Image></div>
       <div style={{height:'300px'}}>
