@@ -56,10 +56,14 @@ const IndexPage = () => (
           <p style={{fontSize: '32px', color:'#feeb83', fontWeight:'lighter', lineHeight:'34px'}}>Open to 6-12th graders, must have completed Toastmasters 
           Youth Leadership Program</p>
           <p style={{fontWeight: 'bold', fontSize: '32px', color:"white", float:'left', marginRight: '7px'}}>CONTACT:</p>
-          <p style={{fontSize: '32px', color:'#feeb83', fontWeight:'lighter'}}>setlurtm@gmail.com</p>
+          <p style={{fontSize: '32px', color:'#feeb83', fontWeight:'lighter'}}>setlur.tm@gmail.com</p>
         </div>
       </div>
-
+      <a href='https://docs.google.com/forms/d/e/1FAIpQLScCK1T7vNnN62HaRiHF_IeXsJqucONeR_JbGztJSenWY6cXSQ/viewform?usp=sf_link' target="_blank" rel="noopener noreferrer">
+      <div class="zoomie" style={{background:'#feeb83', marginTop:'0px'}}>
+        <p style={{fontSize: '35px', color:'#761b28', fontWeight:'bold', clear:'all', textAlign:'center',marginBottom:'0px',padding:'17px',textDecorationColor:'#761b28'}}>REGISTER NOW</p>
+      </div>
+      </a>
       <div class='info' style={{background:'#a13545'}}>
       <div style={{padding: '15px'}}>
         <p style = {{fontWeight: 'bold', 
