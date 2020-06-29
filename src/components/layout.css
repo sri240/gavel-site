@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Elsie&display=swap');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -9,11 +10,119 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.awards{
+  clear:all;
+  margin-top:-7px;
+  line-height:30px;
+}
+.officer2{
+  font-weight:bold;
+  line-height:30px;
+  margin-top:-10px;
+  margin-bottom:14px;
+}
+.info{
+  padding-top:10px;
+  padding-bottom:160px;
+  float:left;
+  width:220px;
+}
+.members{
+  background:#c46876;
+  text-align:center;
+  margin-top:160px;
+}
+.title2{
+  font-family: 'Elsie', cursive;
+  font-weight:lighter;
+}
+.image{
+  width:200px;
+  max-height:700px;
+  margin-right:10px;
+  margin-left:10px;
+  float:left;
+}
+.sri, .sadhana, .bharath{
+  padding:10px;
+  font-size:20px;
+  text-align:right;
+  padding-top:0px;
+  line-height:13px;
+}
+.adithya, .sohum, .sachit, .akhila{
+  width:460px;
+  text-align:left;
+  line-height:13px;
+  padding:10px;
+  font-size:20px;
+  padding-left:20px;
+  padding-top:0px;
+}
+.sachit, .akhila{
+  padding-top:0px;
+  padding-left: 10px;
+  margin-top:-30px;
+}
+.adithya, .sohum{
+  padding-left: 10px;
+}
+.sachit{
+  margin-top: 50px;
+}
+.bharath{
+  margin-top:-30px;
+}
+.officer{
+  margin-bottom:25px;
+  font-weight:bold;
+}
+.row{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+}
+.other{
+  background: #c98d96;
+  text-align:left;
+  padding:10px;
+  line-height:30px;
+  margin:10px;
+  font-size:20px;
+  padding-top:0px;
+}
+.coordinator{
+  font-size: 30px;
+  margin-top: -10px;
+  margin-bottom: 25px;
+}
+a.sticky{
+  color:gold;
+}
+a.sticky:hover{
+  color:gold;
+}
+p.filler{
+  font-size: 32px;
+  color:#feeb83;
+  font-weight:lighter;
+  line-height:34px;
+}
+p.title{
+  font-weight: bold;
+  font-size: 32px;
+  color:white;
+}
+p.title2{
+  font-weight: bold;
+  font-size: 35px;
+  color:white;
+}
 .zoomie{
   font-family: 'Oswald', sans-serif;
   transition: transform .2s;
 }
-.info{
+.information, .members{
   font-family: 'Oswald', sans-serif;
 }
 .zoomie:hover{
