@@ -117,6 +117,7 @@ const Members = () => (
         <div class= "Tanusha" class="other">
         <p>Tarun Krishnaraj</p>
           <p>Freshman</p></div>
+          
         <div class= "Yash" class="other">
         <p>Yash Tomar</p>
           <p>Sophomore</p></div>

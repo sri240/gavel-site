@@ -12,8 +12,16 @@ const Contact = () => (
     @import url('https://fonts.googleapis.com/css2?family=Elsie&display=swap');
     </style>
     <div class="contact" style={{background:"#c46876", textAlign:"center",marginTop:"160px", padding:"15px", paddingBottom:"1px"}}>
-          <p style={{fontWeight: 'bold', fontSize: '32px', color:"white", float:'left', marginRight: '7px'}}>CONTACT:</p>
-          <p style={{fontSize: '32px', color:'#feeb83', fontWeight:'lighter'}}>setlur.tm@gmail.com</p>
+          <form action="mailto:setlur.tm@gmail.com" method="post" encType="text/plain" style={{fontSize: '32px', color:'#feeb83', fontWeight:'lighter', float:"left", textAlign:"left"}}>
+            Name:<br></br>
+            <input type="text" name="name" size="30" style={{float:"left", margin:"5px", marginTop:"10px", marginBottom:"10px"}}></input><br></br><br></br><br></br>
+            Email:<br></br>
+            <input type="text" name="mail" size="30" style={{float:"left", margin:"5px", marginTop:"10px", marginBottom:"10px"}}></input><br></br><br></br><br></br>
+            Message:<br></br>
+            <textarea name="message" rows="6" cols="50" style={{float:"left", margin:"5px", marginTop:"10px", marginBottom:"10px"}}></textarea><br></br>
+            <input type="submit" value="Send" style={{float:"left", margin:"5px"}}></input>
+            <input type="reset" value="Clear" style={{float:"left", margin:"5px"}}></input>
+          </form>
           <img src="https://i.imgur.com/gyq51Gw.png" alt="Thank you."></img>
       </div>
       <p><br></br></p>
