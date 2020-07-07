@@ -13,10 +13,22 @@ const Members = () => (
     </style>
     <div class="members">
       
+    <div class="row">
+          
+          <div class= "savitha">
+            <img src="https://i.imgur.com/h8fXeyc.jpg?1" alt="Savitha" class="image"></img>
+            <div class="info"><p>Savitha Setlur</p>
+            <p class="officer">Coordinator</p>
+            <p>Adult Toastmaster</p></div>
+          </div>
+          </div>
+
         <div style={{padding:"15px"}}>
         <p class="title2">OUR MEMBERS</p>
         </div>
-        <p class="coordinator">Coordinator: Savitha Setlur</p>
+        
+        
+
         <div class="row">
           
         <div class= "adithya">
@@ -61,7 +73,7 @@ const Members = () => (
         <div class= "akhila">
         <img src="https://i.imgur.com/G9h9Zdz.png?1" alt="Akhila" class="image"></img>
         <div class="info"><p>Akhila Maganti</p>
-          <p>Freshman</p></div>
+          <p>8th Grade</p></div>
           </div>
           
           <div class= "bharath">
@@ -78,6 +90,11 @@ const Members = () => (
         <div class="info"><p>Sachit Ganotra</p>
           <p>Freshman</p></div>
           </div>
+
+          <div class= "tanusha">
+          <div class="info"><p>Tanusha Kolli</p>
+          <p>8th Grade</p></div>
+          <img src="https://i.imgur.com/zZ3oah9.png?1" alt="Tanusha" class="image"></img></div>
           </div>
           
           <div class="row">
@@ -109,10 +126,6 @@ const Members = () => (
         <div class= "Surabhi" class="other">
         <p>Surabhi Baskar</p>
           <p>Sophomore</p></div>
-        
-        <div class= "Tanusha" class="other">
-        <p>Tanusha Kolli</p>
-          <p>Freshman</p></div>
 
         <div class= "Tanusha" class="other">
         <p>Tarun Krishnaraj</p>
