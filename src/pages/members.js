@@ -73,7 +73,7 @@ const Members = () => (
         <div class= "akhila">
         <img src="https://i.imgur.com/G9h9Zdz.png?1" alt="Akhila" class="image"></img>
         <div class="info"><p>Akhila Maganti</p>
-          <p>8th Grade</p></div>
+          <p>Freshman</p></div>
           </div>
           
           <div class= "bharath">
