@@ -68,7 +68,8 @@ const IndexPage = () => (
       </a>
       <div class='information' style={{background:'#a13545'}}>
       <div style={{padding: '15px'}}>
-        <p class="title2"> See the <a href="https://docs.google.com/document/d/1s7CA1VP9IbH5eJ04d2lRe06iUi06YTjNGQjvgutPOFg/edit?usp=sharing" target='_blank' rel="noopener noreferrer" style={{color:"white"}}>Sample Agenda</a>
+        <p class="title2"> See the <a href="https://docs.google.com/document/d/1s7CA1VP9IbH5eJ04d2lRe06iUi06YTjNGQjvgutPOFg/edit?usp=sharing" target='_blank' rel="noopener noreferrer" style={{color:"white"}}>Sample Agenda</a></p>
+        <p class="title2"> Sign up for roles <a href="https://docs.google.com/spreadsheets/d/1Nxlwa4_Vo6D-nDnALKJI5DIFxBPt6O_Ib_d7CAtTbS0/edit?usp=sharing" target='_blank' rel="noopener noreferrer" style={{color:"white"}}>here!</a>
            </p>
            <p class="title">HOW IT WORKS</p>
         <p class="filler">Upon joining the club, each member is given a manual that contains 

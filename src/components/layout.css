@@ -135,7 +135,7 @@ p.title2{
   font-family: 'Oswald', sans-serif;
   transition: transform .2s;
 }
-.information, .members, .reginfo{
+.information, .members, .reginfo, .title2{
   font-family: 'Oswald', sans-serif;
 }
 .zoomie:hover{
