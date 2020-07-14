@@ -26,19 +26,16 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
       </h1>
       <div style={{textAlign:"center", width:"100% ",marginLeft:"0px",margin:"0px",background:"black",padding:"0px",
-      marginTop:"3px"}}>
-        <Link to="/" style={{
-            color: "gold",width:"140px",height:"15px",marginRight:"100px",
-          }}><span style={{textAlign:"center",padding:"5px",}}>HOME</span></Link>
-          <Link to="/register/" style={{
-            color: "gold",width:"140px",height:"15px",marginRight:"100px",
-          }}><span style={{textAlign:"center",padding:"5px",}}>REGISTER</span></Link>
-          <Link to="/members/" style={{
-            color: "gold",maxWidth:"120px",height:"15",marginRight:"100px"
-          }}><span style={{textAlign:"center",padding:"5px",}}>MEMBERS</span></Link>
-          <Link to="/contact/" style={{
+      marginTop:"3px", marginBottom:"-5px"}}>
+        <a href="/" style={{marginRight:"80px",
+          }}><button>HOME</button></a>
+          <a href="/register/" style={{marginRight:"80px",
+          }}><button>REGISTER</button></a>
+          <a href="/members/" style={{marginRight:"80px"
+          }}><button>MEMBERS</button></a>
+          <a href="/contact/" style={{
             color: "gold",maxWidth:"120px",height:"15",
-          }}><span style={{textAlign:"center",padding:"5px",}}>CONTACT</span></Link>
+          }}><button>CONTACT</button></a>
       </div>
 
     </div>

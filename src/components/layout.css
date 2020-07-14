@@ -10,6 +10,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+button{
+  text-align:center;
+  padding:5px;
+  background:transparent;
+  color:gold;
+  border:none;
+  margin-bottom: -5px;
+  border-radius: 0px;
+}
 .awards{
   clear:all;
   margin-top:-7px;
