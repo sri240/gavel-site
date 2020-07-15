@@ -79,7 +79,8 @@ const Members = () => (
           <div class= "bharath">
           <div class="info">
           <p>Bharadwaj Sasikumar</p>
-          <p>Senior</p></div>
+          <p>Senior</p>
+          <p class="awards">Competent Leader</p></div>
           <img src="https://i.imgur.com/aDB1meU.png?1" alt="Bharath" class="image"></img></div>
           </div>
 
@@ -109,7 +110,8 @@ const Members = () => (
         
         <div class= "Bhavesha" class="other">
         <p>Bhavesha Sasikumar</p>
-          <p>Senior</p></div>
+          <p>Senior</p>
+          <p class="awards">Competent Leader</p></div>
         
         <div class= "Hasita" class="other">
         <p>Hasita Manda</p>
