@@ -86,18 +86,29 @@ const Members = () => (
 
 
           <div class="row">
-        <div class= "sachit">
-        <img src="https://i.imgur.com/A6J2t5f.jpg?2" alt="Sachit" class="image"></img>
-        <div class="info"><p>Sachit Ganotra</p>
-          <p>Freshman</p></div>
+          
+          <div class= "bhavesha">
+          <img src="https://i.imgur.com/2B0Z37Z.jpg?1" alt="Bhavesha" class="image"></img>
+            <div class="info">
+          <p>Bhavesha Sasikumar</p>
+          <p>Senior</p>
+          <p class="awards">Competent Leader</p></div>
           </div>
 
-          <div class= "tanusha">
-          <div class="info"><p>Tanusha Kolli</p>
-          <p>8th Grade</p></div>
-          <img src="https://i.imgur.com/zZ3oah9.png?1" alt="Tanusha" class="image"></img></div>
+        <div class= "sachit">
+        <div class="info"><p>Sachit Ganotra</p>
+          <p>Freshman</p></div>
+          <img src="https://i.imgur.com/A6J2t5f.jpg?2" alt="Sachit" class="image"></img>
+          </div>
           </div>
           
+          <div class="row">
+          <div class= "tanusha">
+          <img src="https://i.imgur.com/zZ3oah9.png?1" alt="Tanusha" class="image"></img>
+          <div class="info"><p>Tanusha Kolli</p>
+          <p>8th Grade</p></div></div>
+          </div>
+
           <div class="row">
         <div class= "varsha" class="other">
         <p>Varsha Kuchibotla</p>
@@ -107,11 +118,6 @@ const Members = () => (
         <div class= "Anisha" class="other">
         <p>Anisha Rayapudi</p>
           <p>Junior</p></div>
-        
-        <div class= "Bhavesha" class="other">
-        <p>Bhavesha Sasikumar</p>
-          <p>Senior</p>
-          <p class="awards">Competent Leader</p></div>
         
         <div class= "Hasita" class="other">
         <p>Hasita Manda</p>

@@ -60,14 +60,14 @@ button{
   margin-left:10px;
   float:left;
 }
-.sri, .sadhana, .bharath, .tanusha{
+.sri, .sadhana, .bharath, .sachit{
   padding:10px;
   font-size:20px;
   text-align:right;
   padding-top:0px;
   line-height:13px;
 }
-.adithya, .sohum, .sachit, .akhila{
+.adithya, .sohum, .akhila, .tanusha, .bhavesha{
   width:460px;
   text-align:left;
   line-height:13px;
@@ -81,10 +81,10 @@ button{
   padding-left: 10px;
   margin-top:-30px;
 }
-.adithya, .sohum{
+.adithya, .sohum, .bhavesha, .tanusha{
   padding-left: 10px;
 }
-.sachit, .tanusha{
+.sachit, .tanusha, .bhavesha{
   margin-top: 50px;
 }
 .bharath{
