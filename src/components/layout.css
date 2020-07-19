@@ -11,6 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 button{
+  outline:none;
   text-align:center;
   padding:5px;
   background:transparent;
