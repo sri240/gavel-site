@@ -11,7 +11,7 @@ const Contact = () => (
     @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;600&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Elsie&display=swap');
     </style>
-    <div class="contact" style={{background:"#c46876", textAlign:"center",marginTop:"160px", padding:"15px", paddingBottom:"1px"}}>
+   <div class="contact" style={{background:"#c46876", textAlign:"center",marginTop:"160px", padding:"15px", paddingBottom:"1px"}}>
           <form action="mailto:setlur.tm@gmail.com" method="post" encType="text/plain" style={{fontSize: '32px', color:'#feeb83', fontWeight:'lighter', float:"left", textAlign:"left"}}>
             Name:<br></br>
             <input type="text" name="name" size="30" style={{float:"left", margin:"5px", marginTop:"10px", marginBottom:"10px"}}></input><br></br><br></br><br></br>

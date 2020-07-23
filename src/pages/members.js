@@ -113,11 +113,11 @@ const Members = () => (
         <div class= "varsha" class="other">
         <p>Varsha Kuchibotla</p>
         <p class="officer">Secretary</p>
-          <p>Freshman</p></div>
+          <p>Sophomore</p></div>
         
         <div class= "Anisha" class="other">
         <p>Anisha Rayapudi</p>
-          <p>Junior</p></div>
+          <p>Sophomore</p></div>
         
         <div class= "Hasita" class="other">
         <p>Hasita Manda</p>
