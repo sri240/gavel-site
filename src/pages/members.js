@@ -103,12 +103,17 @@ const Members = () => (
           </div>
           
           <div class="row">
-          <div class= "tanusha">
-          <img src="https://i.imgur.com/zZ3oah9.png?1" alt="Tanusha" class="image"></img>
-          <div class="info"><p>Tanusha Kolli</p>
-          <p>8th Grade</p></div></div>
-          </div>
 
+          <div class= "surabhi">
+          <img src="https://i.imgur.com/FpOzLl2.jpg?1" alt="Surabhi" class="image"></img>
+          <div class="info"><p>Surabhi Bhaskar</p>
+            <p>Sophomore</p></div></div>
+
+          <div class= "tanusha">
+          <div class="info"><p>Tanusha Kolli</p>
+          <p>8th Grade</p></div>
+          <img src="https://i.imgur.com/zZ3oah9.png?1" alt="Tanusha" class="image"></img>
+          </div></div>
           <div class="row">
         <div class= "varsha" class="other">
         <p>Varsha Kuchibotla</p>
@@ -131,9 +136,6 @@ const Members = () => (
         <p>Shrish Subbian</p>
           <p>Sophomore</p></div>
         
-        <div class= "Surabhi" class="other">
-        <p>Surabhi Baskar</p>
-          <p>Sophomore</p></div>
 
         <div class= "Tanusha" class="other">
         <p>Tarun Krishnaraj</p>
