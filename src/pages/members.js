@@ -63,7 +63,7 @@ const Members = () => (
           <p>Anusri Saraf</p>
           <p class="officer2">Vice President of Public Relations</p>
           <p>Junior</p>
-          <p class="awards">Competent Communicator, Competent Leader</p>
+          <p class="awards">Advanced Communicator Bronze, Competent Leader</p>
           </div>
           <img src="https://i.imgur.com/CAGNphE.jpg?1" alt="Sri" class="image"></img></div>
           </div>
