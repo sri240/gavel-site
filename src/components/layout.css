@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Elsie&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Elsie&display=swap");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -10,149 +10,170 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-button{
-  outline:none;
-  text-align:center;
-  padding:5px;
-  background:transparent;
-  color:gold;
-  border:none;
+button {
+  outline: none;
+  text-align: center;
+  padding: 5px;
+  background: transparent;
+  color: gold;
+  border: none;
   margin-bottom: -5px;
   border-radius: 0px;
 }
-.awards{
-  clear:all;
-  margin-top:-7px;
-  line-height:30px;
+.awards {
+  clear: all;
+  margin-top: -7px;
+  line-height: 30px;
 }
-.officer2{
-  font-weight:bold;
-  line-height:30px;
-  margin-top:-10px;
-  margin-bottom:14px;
+.officer2 {
+  font-weight: bold;
+  line-height: 30px;
+  margin-top: -10px;
+  margin-bottom: 14px;
 }
-.info{
-  padding-top:10px;
-  padding-bottom:160px;
-  float:left;
-  width:220px;
+.info {
+  padding-top: 10px;
+  padding-bottom: 160px;
+  float: left;
+  width: 220px;
 }
-.savitha{
-  padding:10px;
-  padding-top:15px;
-  font-size:20px;
+.savitha {
+  padding: 10px;
+  padding-top: 15px;
+  font-size: 20px;
   text-align: left;
-  line-height:13px;
+  line-height: 13px;
 }
-.members{
-  background:#c46876;
-  text-align:center;
-  margin-top:160px;
+.members {
+  background: #c46876;
+  text-align: center;
+  margin-top: 160px;
   border-radius: 10px;
 }
-.title2{
-  font-family: 'Elsie', cursive;
-  font-weight:lighter;
+.title2 {
+  font-family: "Elsie", cursive;
+  font-weight: lighter;
 }
-.image{
-  width:200px;
-  max-height:700px;
-  margin-right:10px;
-  margin-left:10px;
-  float:left;
+.image {
+  width: 200px;
+  max-height: 700px;
+  margin-right: 10px;
+  margin-left: 10px;
+  float: left;
 }
-.sri, .sadhana, .bharath, .sachit, .surabhi{
-  padding:10px;
-  font-size:20px;
-  text-align:right;
-  padding-top:0px;
-  line-height:13px;
+.sri,
+.bharath,
+.sachit,
+.surabhi {
+  padding: 10px;
+  font-size: 20px;
+  text-align: right;
+  padding-top: 0px;
+  line-height: 13px;
 }
-.adithya, .sohum, .akhila, .bhavesha, .tanusha, .shrish{
-  width:460px;
-  text-align:left;
-  line-height:13px;
-  padding:10px;
-  font-size:20px;
-  padding-left:20px;
-  padding-top:0px;
+.sadhana,
+.sohum,
+.akhila,
+.bhavesha,
+.tanusha,
+.shrish {
+  width: 460px;
+  text-align: left;
+  line-height: 13px;
+  padding: 10px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 0px;
 }
-.sachit, .akhila{
-  padding-top:0px;
+.sachit,
+.akhila {
+  padding-top: 0px;
   padding-left: 10px;
-  margin-top:-30px;
+  margin-top: -30px;
 }
-.adithya, .sohum, .bhavesha, .shrish, .tanusha{
+.sadhana,
+.sohum,
+.bhavesha,
+.shrish,
+.tanusha {
   padding-left: 10px;
 }
-.sachit, .surabhi, .bhavesha, .tanusha, .shrish{
+.sachit,
+.surabhi,
+.bhavesha,
+.tanusha,
+.shrish {
   margin-top: 50px;
 }
-.bharath{
-  margin-top:-30px;
+.bharath {
+  margin-top: -30px;
 }
-.officer{
-  margin-bottom:25px;
-  font-weight:bold;
+.officer {
+  margin-bottom: 25px;
+  font-weight: bold;
 }
-.row{
-  display:flex;
-  flex-direction:row;
-  flex-wrap:wrap;
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
-.other{
+.other {
   border-radius: 10px;
   background: #c98d96;
-  text-align:left;
-  padding:10px;
-  line-height:30px;
-  margin:10px;
-  font-size:20px;
-  padding-top:0px;
+  text-align: left;
+  padding: 10px;
+  line-height: 30px;
+  margin: 10px;
+  font-size: 20px;
+  padding-top: 0px;
 }
-a.sticky{
-  color:gold;
+a.sticky {
+  color: gold;
 }
-a.sticky:hover{
-  color:gold;
+a.sticky:hover {
+  color: gold;
 }
-p.filler{
+p.filler {
   font-size: 32px;
-  color:#feeb83;
-  font-weight:lighter;
-  line-height:34px;
+  color: #feeb83;
+  font-weight: lighter;
+  line-height: 34px;
 }
-p.title{
+p.title {
   font-weight: bold;
   font-size: 32px;
-  color:white;
+  color: white;
 }
-p.title2{
+p.title2 {
   font-weight: bold;
   font-size: 35px;
-  color:white;
+  color: white;
 }
-.zoomie{
-  font-family: 'Oswald', sans-serif;
-  transition: transform .2s;
+.zoomie {
+  font-family: "Oswald", sans-serif;
+  transition: transform 0.2s;
 }
-.information, .members, .reginfo, .title2{
-  font-family: 'Oswald', sans-serif;
+.information,
+.members,
+.reginfo,
+.title2 {
+  font-family: "Oswald", sans-serif;
 }
-.zoomie:hover{
+.zoomie:hover {
   -ms-transform: scale(1.5);
   -webkit-transform: scale(1.5); /* Safari 3-8 */
-  transform: scale(1.1); }
+  transform: scale(1.1);
+}
 article,
 aside,
 details,
 figcaption,
 figure,
 footer,
-header{
+header {
   position: fixed;
   top: 0;
-  width:1500px;
+  width: 1500px;
   z-index: 5;
 }
 main,
@@ -186,7 +207,7 @@ a {
 a:active,
 a:hover {
   outline-width: 0;
-  color:rgb(25,25,60);
+  color: rgb(25, 25, 60);
 }
 abbr[title] {
   border-bottom: none;
@@ -527,13 +548,13 @@ p {
   padding-top: 0;
   margin-bottom: 1.45rem;
 }
-.zoom{
-  transition: transform .2s;
+.zoom {
+  transition: transform 0.2s;
 }
 .zoom:hover {
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari 3-8 */
-  transform: scale(1.1); 
+  transform: scale(1.1);
 }
 figure {
   margin-left: 0;
